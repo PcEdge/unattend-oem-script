@@ -1,6 +1,5 @@
 # Описание
-Скрипт для автоматизации установки Windows 11
-Сделано с помощью https://schneegans.de/windows/unattend-generator/
+Скрипт для автоматизации установки Windows 11. Сделано с помощью https://schneegans.de/windows/unattend-generator/
 Особенности:
 - Скрытие и отключение новостей и интересов на панели задач
 - Установка обоев
